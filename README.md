@@ -1,6 +1,6 @@
 # Token Authentication Django API
 
-[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/chandansgowda/token-auth-django/CI)](https://github.com/chandansgowda/token-auth-django/actions)
+[![Github Workflow Checks](https://github.com/chandansgowda/token-auth-django/actions/workflows/checks.yml/badge.svg)](https://github.com/chandansgowda/token-auth-django/actions/workflows/checks.yml)
 
 A robust User Authentication REST API built with Django Rest Framework, employing Test-Driven Development (TDD) practices. The API provides token-based authentication for secure user access.
 
