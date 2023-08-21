@@ -1,1 +1,1 @@
-# recipe-django-api
+# Token Authentication Django API
